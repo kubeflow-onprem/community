@@ -19,6 +19,11 @@ This SIG aims to coordinate projects and technologies necessary to enable the co
 - Ensure that users have operational instrumentation necessary to safely run a feature store in production.
 - Ensure that users have the documentation and tutorials necessary to both deploy, operate, and use a feature store.
 - Ensure that Kubeflow maintains a cohesive data tooling vision with respect to feature stores.
+- Ensure that users have access to a list of validated reference designs for setting clusters.
+- Ensure that a process is defined that will enable users to contribute to reference designs.
+- Ensure that there is always at least one working and validated complete software stack. This software stack would be defined as a list of OSes and component versions that have been verified to create a working solution.
+ 
+
 
 #### Cross-cutting and Externally Facing Processes
 
@@ -27,6 +32,8 @@ This SIG aims to coordinate projects and technologies necessary to enable the co
 - Coordinating with Serving WG to make sure that its possible to retrieve online feature data from the feature store.
 - Coordinating with Manifests WG to ensure that feature store manifests are properly deployed with Kubeflow.
 - Coordinating with release teams to ensure that the feature store functionality can be released properly.
+- Maintaining a list of hardware stacks known to work with Kubeflow.
+- Maintaining a template for how to run benchmarks to verify a performant and working stack.
 
 ### Out of scope
 
