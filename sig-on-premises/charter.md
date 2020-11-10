@@ -33,7 +33,8 @@ This SIG aims to coordinate projects and technologies necessary to enable the co
 - Coordinating with Manifests WG to ensure that feature store manifests are properly deployed with Kubeflow.
 - Coordinating with release teams to ensure that the feature store functionality can be released properly.
 - Maintaining a list of hardware stacks known to work with Kubeflow.
-- Maintaining a template for how to run benchmarks to verify a performant and working stack.
+- Maintaining instructions on how to verify a working stack.
+- Maintaining a template for how to run benchmarks to verify a performant stack.
 
 ### Out of scope
 
